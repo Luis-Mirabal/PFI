@@ -2,8 +2,8 @@
 Proyecto Final Integrador
 
 
-Al ejecutar el programa, el usuario verá un menú interactivo donde puede agregar productos, ver productos o articulos con bajo stock, actualizar cantidades o eliminar productos.
-•Los datos se guardan en el archivo inventario.db, que puede abrirse con cualquier herramienta compatible con SQLite para ver y manipular los datos.
+Al ejecutar el programa de inventario, el usuario verá un menú interactivo donde puede agregar productos, ver productos o articulos con bajo stock, actualizar cantidades o eliminar productos.
+Los datos se guardan en el archivo inventario.db, que puede abrirse con cualquier herramienta compatible con SQLite para ver y manipular los datos.
 
 
 Se utiliza SQLite: a traves la conexión con la base de datos inventario.db. Si la base de datos no existe, SQLite la creará automáticamente.
